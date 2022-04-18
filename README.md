@@ -57,3 +57,7 @@ dotnet -> #7014e8
 mongodb -> #13aa52
 
 --->
+
+ ### :page_facing_up: My Resume 
+[Eduardo's Resume.pdf](https://github.com/3duardonery/3duardonery/files/8507327/Eduardo.s.Resume.pdf)
+
