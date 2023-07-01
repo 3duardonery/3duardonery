@@ -59,5 +59,5 @@ mongodb -> #13aa52
 --->
 
  ### :page_facing_up: My Resume 
-[Eduardo's Resume.pdf](https://github.com/3duardonery/3duardonery/files/8507327/Eduardo.s.Resume.pdf)
+[Eduardo-Resume.pdf](https://github.com/3duardonery/3duardonery/files/11926393/Eduardo-Resume.pdf)
 
