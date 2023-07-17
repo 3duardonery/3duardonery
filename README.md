@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Eduardo Nery
 - 💻 Software Developer in Instituto Atlântico
 - 🇧🇷 Fortaleza-CE, **Brazil**
-- 🌱 I’m currently learning everything related to Flutter (mobile) applications and Web API in dotnet core 
+- 🌱 I’m currently learning everything related to microservices in Java (spring boot) and dotnet plus microfrontend in angular. 
 
 ### 🛠️ Skills:
  - ![Angular](https://img.shields.io/badge/-Angular-dd0031?&logo=angular&logoColor=FFFFFF) 
