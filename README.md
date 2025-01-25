@@ -3,7 +3,7 @@
 </h1>
 
 - 👋 Hi, I’m Eduardo Nery
-- 💻 Software Developer in Instituto Atlântico
+- 💻 Software Developer in Solar Tech
 - 🇧🇷 Fortaleza-CE, **Brazil**
 - 🌱 I’m currently learning everything related to microservices in Java (spring boot) and dotnet plus microfrontend in angular. 
 
